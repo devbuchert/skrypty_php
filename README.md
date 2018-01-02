@@ -1,4 +1,4 @@
 # skrypty_php
-ZbiÃ³r przydatnych funkcji, klas w jÄ™zyku php
+zbiór przydatnych funkcji, klas w jêzyku php
 
 wlaz³ i zlaz³
