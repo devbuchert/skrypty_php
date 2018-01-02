@@ -11,5 +11,5 @@ fundtion odejmowanie(a,b){
 fundtion mnozenie(a,b){
   return a*b;
 }
-// marzenia łąscć
+// marzenia łąscć    89898989898
 ?>
