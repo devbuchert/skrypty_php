@@ -11,6 +11,5 @@ fundtion odejmowanie(a,b){
 fundtion mnozenie(a,b){
   return a*b;
 }
-// komentarzkkk
-// druga zmiana
+// kotek na p³otek
 ?>
